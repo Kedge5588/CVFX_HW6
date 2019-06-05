@@ -12,7 +12,7 @@ ORB-SLAM2是完整的SLAM系統，基於所提取出來的稀疏特徵點，
 ## Visual effects with any post-production software
 * 威力導演15
 這個影片是利用威力導演中，動態追蹤這個功能，使文字可以根據物體位置移動。
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NJICDbDI8bBeuw/0.jpg)](https://youtu.be/xfSLMkTO-_o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xfSLMkTO-_o/0.jpg)](https://youtu.be/xfSLMkTO-_o)
 
 Step1 點選影片選擇動態追蹤
 
